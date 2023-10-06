@@ -5,8 +5,11 @@ from lcg import lcg
 def checkIn(env,cind,pty,counters,st,iat):
     # cind is cutomer index, ctype is priority or normal customer
     ctype="high" if (pty==0) else "normal"
+    tm=0
+    for i in range(0,cind):
+        tm=tm+iat[i]
     if (cind != 0):
-        yield env.timeout(iat[cind-1])
+        yield env.timeout(tm)
     print('Customer %d with %s prority arrived at %.2f'%(cind+1,ctype,env.now))
     with counters.request(priority=pty) as req:
         yield req
