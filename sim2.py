@@ -2,6 +2,8 @@ import simpy
 import scipy.stats as stats
 from lcg import lcg
 
+lines = []
+
 def checkIn(env,cind,pty,counters,st,iat):
     # cind is cutomer index, ctype is priority or normal customer
     ctype="high" if (pty==0) else "normal"
@@ -10,11 +12,14 @@ def checkIn(env,cind,pty,counters,st,iat):
         tm=tm+iat[i]
     if (cind != 0):
         yield env.timeout(tm)
+    lines.append('Customer %d with %s prority arrived at %.2f'%(cind+1,ctype,env.now))
     print('Customer %d with %s prority arrived at %.2f'%(cind+1,ctype,env.now))
     with counters.request(priority=pty) as req:
         yield req
+        lines.append('Customer %d with %s priority started check in at %.2f'%(cind+1,ctype,env.now))
         print('Customer %d with %s priority started check in at %.2f'%(cind+1,ctype,env.now))
         yield env.timeout(st[cind])
+        lines.append('Customer %d with %s priority finished check in and leaving at %.2f'%(cind+1,ctype,env.now))
         print('Customer %d with %s priority finished check in and leaving at %.2f'%(cind+1,ctype,env.now))
 
 # generate 9 random no.s using lcg
@@ -44,3 +49,7 @@ for i in range(0,100):
     pty = genpty(rpty[i],0)
     env.process(checkIn(env,i,pty,counters,st,iat))
 env.run()
+print('\n---Simulation finished---\n')
+with open('sim2res.txt','w') as f:
+    f.write('\n'.join(lines))
+    f.close
