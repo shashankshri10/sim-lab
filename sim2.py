@@ -81,7 +81,7 @@ def sim_stats(simstats):
     simstats.append('Maximum wait time = %.2f'% (np.max(wtm)))
     simstats.append('Average total time = %.2f'% (np.mean(ttm)))
     simstats.append('Maximum total time = %.2f'% (np.max(ttm)))
-    simstats.append('Total run time of the simulation = %.2f' %(ttm[4]+absarr[4]))
+    simstats.append('Total run time of the simulation = %.2f' %(ttm[99]+absarr[99]))
     simstats.append('Number of normal customers = %d'% (ncus))
     simstats.append('Number of Priority customers = %d'% (pcus))
     if (len(priority_cus_ind)!=0):
