@@ -1,0 +1,11 @@
+---Simulation Report Part 1---
+
+Average wait time = 0.00
+Maximum wait time = 0.00
+Average total time = 6.12
+Maximum total time = 7.96
+Total run time of the simulation = 35.98
+Number of normal customers = 5
+Number of Priority customers = 0
+Average wait time for priority customers = N/A
+Average wait time for priority customers = N/A

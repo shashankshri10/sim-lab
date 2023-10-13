@@ -1,15 +1,17 @@
-Customer 1 with normal prority arrived at 0.00
+Event List Part 1
+
+Customer 1 with normal priority arrived at 0.00
 Customer 1 with normal priority started check in at 0.00
-Customer 2 with normal prority arrived at 0.81
+Customer 2 with normal priority arrived at 0.81
 Customer 2 with normal priority started check in at 0.81
 Customer 2 with normal priority finished check in and leaving at 7.39
-Customer 3 with normal prority arrived at 7.74
+Customer 3 with normal priority arrived at 7.74
 Customer 3 with normal priority started check in at 7.74
 Customer 1 with normal priority finished check in and leaving at 7.96
 Customer 3 with normal priority finished check in and leaving at 13.93
-Customer 4 with normal prority arrived at 15.31
+Customer 4 with normal priority arrived at 15.31
 Customer 4 with normal priority started check in at 15.31
 Customer 4 with normal priority finished check in and leaving at 17.81
-Customer 5 with normal prority arrived at 28.61
+Customer 5 with normal priority arrived at 28.61
 Customer 5 with normal priority started check in at 28.61
 Customer 5 with normal priority finished check in and leaving at 35.98

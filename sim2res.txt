@@ -1,31 +1,33 @@
-Customer 1 with high prority arrived at 0.00
+Event List Part 2
+
+Customer 1 with high priority arrived at 0.00
 Customer 1 with high priority started check in at 0.00
 Customer 1 with high priority finished check in and leaving at 0.62
-Customer 2 with normal prority arrived at 0.81
+Customer 2 with normal priority arrived at 0.81
 Customer 2 with normal priority started check in at 0.81
 Customer 2 with normal priority finished check in and leaving at 3.94
-Customer 3 with normal prority arrived at 7.74
+Customer 3 with normal priority arrived at 7.74
 Customer 3 with normal priority started check in at 7.74
-Customer 4 with normal prority arrived at 15.31
+Customer 4 with normal priority arrived at 15.31
 Customer 4 with normal priority started check in at 15.31
 Customer 3 with normal priority finished check in and leaving at 16.10
 Customer 4 with normal priority finished check in and leaving at 23.87
-Customer 5 with normal prority arrived at 28.61
+Customer 5 with normal priority arrived at 28.61
 Customer 5 with normal priority started check in at 28.61
-Customer 6 with normal prority arrived at 34.47
+Customer 6 with normal priority arrived at 34.47
 Customer 6 with normal priority started check in at 34.47
-Customer 7 with normal prority arrived at 37.74
+Customer 7 with normal priority arrived at 37.74
 Customer 5 with normal priority finished check in and leaving at 38.15
 Customer 7 with normal priority started check in at 38.15
-Customer 8 with normal prority arrived at 40.46
-Customer 9 with normal prority arrived at 41.10
+Customer 8 with normal priority arrived at 40.46
+Customer 9 with normal priority arrived at 41.10
 Customer 6 with normal priority finished check in and leaving at 42.43
 Customer 8 with normal priority started check in at 42.43
 Customer 7 with normal priority finished check in and leaving at 44.73
 Customer 9 with normal priority started check in at 44.73
-Customer 10 with normal prority arrived at 45.68
-Customer 11 with high prority arrived at 45.83
-Customer 12 with normal prority arrived at 46.65
+Customer 10 with normal priority arrived at 45.68
+Customer 11 with high priority arrived at 45.83
+Customer 12 with normal priority arrived at 46.65
 Customer 9 with normal priority finished check in and leaving at 47.23
 Customer 11 with high priority started check in at 47.23
 Customer 11 with high priority finished check in and leaving at 47.85
@@ -33,29 +35,29 @@ Customer 10 with normal priority started check in at 47.85
 Customer 8 with normal priority finished check in and leaving at 48.61
 Customer 12 with normal priority started check in at 48.61
 Customer 12 with normal priority finished check in and leaving at 51.74
-Customer 13 with normal prority arrived at 53.58
+Customer 13 with normal priority arrived at 53.58
 Customer 13 with normal priority started check in at 53.58
 Customer 10 with normal priority finished check in and leaving at 55.22
-Customer 14 with normal prority arrived at 61.15
+Customer 14 with normal priority arrived at 61.15
 Customer 14 with normal priority started check in at 61.15
 Customer 13 with normal priority finished check in and leaving at 61.93
 Customer 14 with normal priority finished check in and leaving at 69.70
-Customer 15 with normal prority arrived at 74.44
+Customer 15 with normal priority arrived at 74.44
 Customer 15 with normal priority started check in at 74.44
-Customer 16 with normal prority arrived at 80.30
+Customer 16 with normal priority arrived at 80.30
 Customer 16 with normal priority started check in at 80.30
-Customer 17 with normal prority arrived at 83.57
+Customer 17 with normal priority arrived at 83.57
 Customer 15 with normal priority finished check in and leaving at 83.98
 Customer 17 with normal priority started check in at 83.98
-Customer 18 with normal prority arrived at 86.29
-Customer 19 with normal prority arrived at 86.93
+Customer 18 with normal priority arrived at 86.29
+Customer 19 with normal priority arrived at 86.93
 Customer 16 with normal priority finished check in and leaving at 88.26
 Customer 18 with normal priority started check in at 88.26
 Customer 17 with normal priority finished check in and leaving at 90.56
 Customer 19 with normal priority started check in at 90.56
-Customer 20 with normal prority arrived at 91.51
-Customer 21 with high prority arrived at 91.67
-Customer 22 with normal prority arrived at 92.48
+Customer 20 with normal priority arrived at 91.51
+Customer 21 with high priority arrived at 91.67
+Customer 22 with normal priority arrived at 92.48
 Customer 19 with normal priority finished check in and leaving at 93.06
 Customer 21 with high priority started check in at 93.06
 Customer 21 with high priority finished check in and leaving at 93.69
@@ -63,29 +65,29 @@ Customer 20 with normal priority started check in at 93.69
 Customer 18 with normal priority finished check in and leaving at 94.44
 Customer 22 with normal priority started check in at 94.44
 Customer 22 with normal priority finished check in and leaving at 97.57
-Customer 23 with normal prority arrived at 99.41
+Customer 23 with normal priority arrived at 99.41
 Customer 23 with normal priority started check in at 99.41
 Customer 20 with normal priority finished check in and leaving at 101.06
-Customer 24 with normal prority arrived at 106.98
+Customer 24 with normal priority arrived at 106.98
 Customer 24 with normal priority started check in at 106.98
 Customer 23 with normal priority finished check in and leaving at 107.77
 Customer 24 with normal priority finished check in and leaving at 115.53
-Customer 25 with normal prority arrived at 120.28
+Customer 25 with normal priority arrived at 120.28
 Customer 25 with normal priority started check in at 120.28
-Customer 26 with normal prority arrived at 126.13
+Customer 26 with normal priority arrived at 126.13
 Customer 26 with normal priority started check in at 126.13
-Customer 27 with normal prority arrived at 129.40
+Customer 27 with normal priority arrived at 129.40
 Customer 25 with normal priority finished check in and leaving at 129.82
 Customer 27 with normal priority started check in at 129.82
-Customer 28 with normal prority arrived at 132.13
-Customer 29 with normal prority arrived at 132.77
+Customer 28 with normal priority arrived at 132.13
+Customer 29 with normal priority arrived at 132.77
 Customer 26 with normal priority finished check in and leaving at 134.09
 Customer 28 with normal priority started check in at 134.09
 Customer 27 with normal priority finished check in and leaving at 136.40
 Customer 29 with normal priority started check in at 136.40
-Customer 30 with normal prority arrived at 137.35
-Customer 31 with high prority arrived at 137.50
-Customer 32 with normal prority arrived at 138.31
+Customer 30 with normal priority arrived at 137.35
+Customer 31 with high priority arrived at 137.50
+Customer 32 with normal priority arrived at 138.31
 Customer 29 with normal priority finished check in and leaving at 138.90
 Customer 31 with high priority started check in at 138.90
 Customer 31 with high priority finished check in and leaving at 139.52
@@ -93,29 +95,29 @@ Customer 30 with normal priority started check in at 139.52
 Customer 28 with normal priority finished check in and leaving at 140.28
 Customer 32 with normal priority started check in at 140.28
 Customer 32 with normal priority finished check in and leaving at 143.40
-Customer 33 with normal prority arrived at 145.24
+Customer 33 with normal priority arrived at 145.24
 Customer 33 with normal priority started check in at 145.24
 Customer 30 with normal priority finished check in and leaving at 146.89
-Customer 34 with normal prority arrived at 152.81
+Customer 34 with normal priority arrived at 152.81
 Customer 34 with normal priority started check in at 152.81
 Customer 33 with normal priority finished check in and leaving at 153.60
 Customer 34 with normal priority finished check in and leaving at 161.37
-Customer 35 with normal prority arrived at 166.11
+Customer 35 with normal priority arrived at 166.11
 Customer 35 with normal priority started check in at 166.11
-Customer 36 with normal prority arrived at 171.97
+Customer 36 with normal priority arrived at 171.97
 Customer 36 with normal priority started check in at 171.97
-Customer 37 with normal prority arrived at 175.24
+Customer 37 with normal priority arrived at 175.24
 Customer 35 with normal priority finished check in and leaving at 175.65
 Customer 37 with normal priority started check in at 175.65
-Customer 38 with normal prority arrived at 177.96
-Customer 39 with normal prority arrived at 178.60
+Customer 38 with normal priority arrived at 177.96
+Customer 39 with normal priority arrived at 178.60
 Customer 36 with normal priority finished check in and leaving at 179.93
 Customer 38 with normal priority started check in at 179.93
 Customer 37 with normal priority finished check in and leaving at 182.23
 Customer 39 with normal priority started check in at 182.23
-Customer 40 with normal prority arrived at 183.18
-Customer 41 with high prority arrived at 183.33
-Customer 42 with normal prority arrived at 184.15
+Customer 40 with normal priority arrived at 183.18
+Customer 41 with high priority arrived at 183.33
+Customer 42 with normal priority arrived at 184.15
 Customer 39 with normal priority finished check in and leaving at 184.73
 Customer 41 with high priority started check in at 184.73
 Customer 41 with high priority finished check in and leaving at 185.35
@@ -123,29 +125,29 @@ Customer 40 with normal priority started check in at 185.35
 Customer 38 with normal priority finished check in and leaving at 186.11
 Customer 42 with normal priority started check in at 186.11
 Customer 42 with normal priority finished check in and leaving at 189.24
-Customer 43 with normal prority arrived at 191.08
+Customer 43 with normal priority arrived at 191.08
 Customer 43 with normal priority started check in at 191.08
 Customer 40 with normal priority finished check in and leaving at 192.72
-Customer 44 with normal prority arrived at 198.65
+Customer 44 with normal priority arrived at 198.65
 Customer 44 with normal priority started check in at 198.65
 Customer 43 with normal priority finished check in and leaving at 199.43
 Customer 44 with normal priority finished check in and leaving at 207.20
-Customer 45 with normal prority arrived at 211.94
+Customer 45 with normal priority arrived at 211.94
 Customer 45 with normal priority started check in at 211.94
-Customer 46 with normal prority arrived at 217.80
+Customer 46 with normal priority arrived at 217.80
 Customer 46 with normal priority started check in at 217.80
-Customer 47 with normal prority arrived at 221.07
+Customer 47 with normal priority arrived at 221.07
 Customer 45 with normal priority finished check in and leaving at 221.48
 Customer 47 with normal priority started check in at 221.48
-Customer 48 with normal prority arrived at 223.79
-Customer 49 with normal prority arrived at 224.43
+Customer 48 with normal priority arrived at 223.79
+Customer 49 with normal priority arrived at 224.43
 Customer 46 with normal priority finished check in and leaving at 225.76
 Customer 48 with normal priority started check in at 225.76
 Customer 47 with normal priority finished check in and leaving at 228.06
 Customer 49 with normal priority started check in at 228.06
-Customer 50 with normal prority arrived at 229.01
-Customer 51 with high prority arrived at 229.17
-Customer 52 with normal prority arrived at 229.98
+Customer 50 with normal priority arrived at 229.01
+Customer 51 with high priority arrived at 229.17
+Customer 52 with normal priority arrived at 229.98
 Customer 49 with normal priority finished check in and leaving at 230.56
 Customer 51 with high priority started check in at 230.56
 Customer 51 with high priority finished check in and leaving at 231.19
@@ -153,29 +155,29 @@ Customer 50 with normal priority started check in at 231.19
 Customer 48 with normal priority finished check in and leaving at 231.94
 Customer 52 with normal priority started check in at 231.94
 Customer 52 with normal priority finished check in and leaving at 235.07
-Customer 53 with normal prority arrived at 236.91
+Customer 53 with normal priority arrived at 236.91
 Customer 53 with normal priority started check in at 236.91
 Customer 50 with normal priority finished check in and leaving at 238.56
-Customer 54 with normal prority arrived at 244.48
+Customer 54 with normal priority arrived at 244.48
 Customer 54 with normal priority started check in at 244.48
 Customer 53 with normal priority finished check in and leaving at 245.26
 Customer 54 with normal priority finished check in and leaving at 253.03
-Customer 55 with normal prority arrived at 257.78
+Customer 55 with normal priority arrived at 257.78
 Customer 55 with normal priority started check in at 257.78
-Customer 56 with normal prority arrived at 263.63
+Customer 56 with normal priority arrived at 263.63
 Customer 56 with normal priority started check in at 263.63
-Customer 57 with normal prority arrived at 266.90
+Customer 57 with normal priority arrived at 266.90
 Customer 55 with normal priority finished check in and leaving at 267.32
 Customer 57 with normal priority started check in at 267.32
-Customer 58 with normal prority arrived at 269.63
-Customer 59 with normal prority arrived at 270.26
+Customer 58 with normal priority arrived at 269.63
+Customer 59 with normal priority arrived at 270.26
 Customer 56 with normal priority finished check in and leaving at 271.59
 Customer 58 with normal priority started check in at 271.59
 Customer 57 with normal priority finished check in and leaving at 273.89
 Customer 59 with normal priority started check in at 273.89
-Customer 60 with normal prority arrived at 274.85
-Customer 61 with high prority arrived at 275.00
-Customer 62 with normal prority arrived at 275.81
+Customer 60 with normal priority arrived at 274.85
+Customer 61 with high priority arrived at 275.00
+Customer 62 with normal priority arrived at 275.81
 Customer 59 with normal priority finished check in and leaving at 276.39
 Customer 61 with high priority started check in at 276.39
 Customer 61 with high priority finished check in and leaving at 277.02
@@ -183,29 +185,29 @@ Customer 60 with normal priority started check in at 277.02
 Customer 58 with normal priority finished check in and leaving at 277.78
 Customer 62 with normal priority started check in at 277.78
 Customer 62 with normal priority finished check in and leaving at 280.90
-Customer 63 with normal prority arrived at 282.74
+Customer 63 with normal priority arrived at 282.74
 Customer 63 with normal priority started check in at 282.74
 Customer 60 with normal priority finished check in and leaving at 284.39
-Customer 64 with normal prority arrived at 290.31
+Customer 64 with normal priority arrived at 290.31
 Customer 64 with normal priority started check in at 290.31
 Customer 63 with normal priority finished check in and leaving at 291.10
 Customer 64 with normal priority finished check in and leaving at 298.87
-Customer 65 with normal prority arrived at 303.61
+Customer 65 with normal priority arrived at 303.61
 Customer 65 with normal priority started check in at 303.61
-Customer 66 with normal prority arrived at 309.47
+Customer 66 with normal priority arrived at 309.47
 Customer 66 with normal priority started check in at 309.47
-Customer 67 with normal prority arrived at 312.74
+Customer 67 with normal priority arrived at 312.74
 Customer 65 with normal priority finished check in and leaving at 313.15
 Customer 67 with normal priority started check in at 313.15
-Customer 68 with normal prority arrived at 315.46
-Customer 69 with normal prority arrived at 316.10
+Customer 68 with normal priority arrived at 315.46
+Customer 69 with normal priority arrived at 316.10
 Customer 66 with normal priority finished check in and leaving at 317.43
 Customer 68 with normal priority started check in at 317.43
 Customer 67 with normal priority finished check in and leaving at 319.73
 Customer 69 with normal priority started check in at 319.73
-Customer 70 with normal prority arrived at 320.68
-Customer 71 with high prority arrived at 320.83
-Customer 72 with normal prority arrived at 321.64
+Customer 70 with normal priority arrived at 320.68
+Customer 71 with high priority arrived at 320.83
+Customer 72 with normal priority arrived at 321.64
 Customer 69 with normal priority finished check in and leaving at 322.23
 Customer 71 with high priority started check in at 322.23
 Customer 71 with high priority finished check in and leaving at 322.85
@@ -213,29 +215,29 @@ Customer 70 with normal priority started check in at 322.85
 Customer 68 with normal priority finished check in and leaving at 323.61
 Customer 72 with normal priority started check in at 323.61
 Customer 72 with normal priority finished check in and leaving at 326.74
-Customer 73 with normal prority arrived at 328.58
+Customer 73 with normal priority arrived at 328.58
 Customer 73 with normal priority started check in at 328.58
 Customer 70 with normal priority finished check in and leaving at 330.22
-Customer 74 with normal prority arrived at 336.15
+Customer 74 with normal priority arrived at 336.15
 Customer 74 with normal priority started check in at 336.15
 Customer 73 with normal priority finished check in and leaving at 336.93
 Customer 74 with normal priority finished check in and leaving at 344.70
-Customer 75 with normal prority arrived at 349.44
+Customer 75 with normal priority arrived at 349.44
 Customer 75 with normal priority started check in at 349.44
-Customer 76 with normal prority arrived at 355.30
+Customer 76 with normal priority arrived at 355.30
 Customer 76 with normal priority started check in at 355.30
-Customer 77 with normal prority arrived at 358.57
+Customer 77 with normal priority arrived at 358.57
 Customer 75 with normal priority finished check in and leaving at 358.98
 Customer 77 with normal priority started check in at 358.98
-Customer 78 with normal prority arrived at 361.29
-Customer 79 with normal prority arrived at 361.93
+Customer 78 with normal priority arrived at 361.29
+Customer 79 with normal priority arrived at 361.93
 Customer 76 with normal priority finished check in and leaving at 363.26
 Customer 78 with normal priority started check in at 363.26
 Customer 77 with normal priority finished check in and leaving at 365.56
 Customer 79 with normal priority started check in at 365.56
-Customer 80 with normal prority arrived at 366.51
-Customer 81 with high prority arrived at 366.66
-Customer 82 with normal prority arrived at 367.48
+Customer 80 with normal priority arrived at 366.51
+Customer 81 with high priority arrived at 366.66
+Customer 82 with normal priority arrived at 367.48
 Customer 79 with normal priority finished check in and leaving at 368.06
 Customer 81 with high priority started check in at 368.06
 Customer 81 with high priority finished check in and leaving at 368.69
@@ -243,29 +245,29 @@ Customer 80 with normal priority started check in at 368.69
 Customer 78 with normal priority finished check in and leaving at 369.44
 Customer 82 with normal priority started check in at 369.44
 Customer 82 with normal priority finished check in and leaving at 372.57
-Customer 83 with normal prority arrived at 374.41
+Customer 83 with normal priority arrived at 374.41
 Customer 83 with normal priority started check in at 374.41
 Customer 80 with normal priority finished check in and leaving at 376.05
-Customer 84 with normal prority arrived at 381.98
+Customer 84 with normal priority arrived at 381.98
 Customer 84 with normal priority started check in at 381.98
 Customer 83 with normal priority finished check in and leaving at 382.76
 Customer 84 with normal priority finished check in and leaving at 390.53
-Customer 85 with normal prority arrived at 395.28
+Customer 85 with normal priority arrived at 395.28
 Customer 85 with normal priority started check in at 395.28
-Customer 86 with normal prority arrived at 401.13
+Customer 86 with normal priority arrived at 401.13
 Customer 86 with normal priority started check in at 401.13
-Customer 87 with normal prority arrived at 404.40
+Customer 87 with normal priority arrived at 404.40
 Customer 85 with normal priority finished check in and leaving at 404.82
 Customer 87 with normal priority started check in at 404.82
-Customer 88 with normal prority arrived at 407.13
-Customer 89 with normal prority arrived at 407.76
+Customer 88 with normal priority arrived at 407.13
+Customer 89 with normal priority arrived at 407.76
 Customer 86 with normal priority finished check in and leaving at 409.09
 Customer 88 with normal priority started check in at 409.09
 Customer 87 with normal priority finished check in and leaving at 411.39
 Customer 89 with normal priority started check in at 411.39
-Customer 90 with normal prority arrived at 412.35
-Customer 91 with high prority arrived at 412.50
-Customer 92 with normal prority arrived at 413.31
+Customer 90 with normal priority arrived at 412.35
+Customer 91 with high priority arrived at 412.50
+Customer 92 with normal priority arrived at 413.31
 Customer 89 with normal priority finished check in and leaving at 413.89
 Customer 91 with high priority started check in at 413.89
 Customer 91 with high priority finished check in and leaving at 414.52
@@ -273,27 +275,27 @@ Customer 90 with normal priority started check in at 414.52
 Customer 88 with normal priority finished check in and leaving at 415.28
 Customer 92 with normal priority started check in at 415.28
 Customer 92 with normal priority finished check in and leaving at 418.40
-Customer 93 with normal prority arrived at 420.24
+Customer 93 with normal priority arrived at 420.24
 Customer 93 with normal priority started check in at 420.24
 Customer 90 with normal priority finished check in and leaving at 421.89
-Customer 94 with normal prority arrived at 427.81
+Customer 94 with normal priority arrived at 427.81
 Customer 94 with normal priority started check in at 427.81
 Customer 93 with normal priority finished check in and leaving at 428.60
 Customer 94 with normal priority finished check in and leaving at 436.37
-Customer 95 with normal prority arrived at 441.11
+Customer 95 with normal priority arrived at 441.11
 Customer 95 with normal priority started check in at 441.11
-Customer 96 with normal prority arrived at 446.96
+Customer 96 with normal priority arrived at 446.96
 Customer 96 with normal priority started check in at 446.96
-Customer 97 with normal prority arrived at 450.23
+Customer 97 with normal priority arrived at 450.23
 Customer 95 with normal priority finished check in and leaving at 450.65
 Customer 97 with normal priority started check in at 450.65
-Customer 98 with normal prority arrived at 452.96
-Customer 99 with normal prority arrived at 453.60
+Customer 98 with normal priority arrived at 452.96
+Customer 99 with normal priority arrived at 453.60
 Customer 96 with normal priority finished check in and leaving at 454.93
 Customer 98 with normal priority started check in at 454.93
 Customer 97 with normal priority finished check in and leaving at 457.23
 Customer 99 with normal priority started check in at 457.23
-Customer 100 with normal prority arrived at 458.18
+Customer 100 with normal priority arrived at 458.18
 Customer 99 with normal priority finished check in and leaving at 459.73
 Customer 100 with normal priority started check in at 459.73
 Customer 98 with normal priority finished check in and leaving at 461.11
